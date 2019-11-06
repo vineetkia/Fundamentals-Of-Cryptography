@@ -4,7 +4,7 @@
 3) Hill
 4) Vernam
 5) RailFence
-6) Single Columnar
+6) Columnar Transposition
 7) Diffie Hellman
 8) BlowFish
 9) MD5
