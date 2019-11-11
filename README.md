@@ -1,6 +1,6 @@
 ### Fundamentals-Of-Cryptography
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://www.cvedetails.com/cve/CVE-2018-6389)
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://en.wikipedia.org/wiki/Cryptography)
 
 - Caesar
 - Vigenere
