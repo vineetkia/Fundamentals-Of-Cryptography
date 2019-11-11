@@ -1,13 +1,26 @@
-# Fundamentals-Of-Cryptography
-1) Caesar
-2) Vigenere
-3) Hill
-4) Vernam
-5) RailFence
-6) Columnar Transposition
-7) Diffie Hellman
-8) BlowFish
-9) MD5
-10) RSA
-11) AES
-12) DES
+### Fundamentals-Of-Cryptography
+
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://www.cvedetails.com/cve/CVE-2018-6389)
+
+- Caesar
+- Vigenere
+- Hill
+- Vernam
+- RailFence
+- Columnar Transposition
+- Diffie Hellman
+- BlowFish
+- MD5
+- RSA
+- AES
+- DES
+
+Execution Command: [Linux]
+```sh
+$ python3 FileName.py
+```
+
+#### Importance Of Cryptography:
+- Cryptography or cryptology is the practice and study of techniques for secure communication in the presence of third parties called adversaries
+
+--------------------------------------------------------------------------------------------------
